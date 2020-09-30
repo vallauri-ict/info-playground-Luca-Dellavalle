@@ -1,0 +1,9 @@
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\bin\Debug\Multifomr01.exe.config
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\bin\Debug\Multifomr01.exe
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\bin\Debug\Multifomr01.pdb
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\obj\Debug\Multifomr01.csprojAssemblyReference.cache
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\obj\Debug\Multifomr01.Form1.resources
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\obj\Debug\Multifomr01.Properties.Resources.resources
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\obj\Debug\Multifomr01.csproj.GenerateResource.cache
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\obj\Debug\Multifomr01.exe
+C:\Users\Luca Dellavalle\Desktop\Multifomr01\Multifomr01\obj\Debug\Multifomr01.pdb

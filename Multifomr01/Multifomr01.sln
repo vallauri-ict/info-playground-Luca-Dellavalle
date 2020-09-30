@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multifomr01", "Multifomr01\Multifomr01.csproj", "{581FBDA7-DE1C-49E8-A712-8835AC2A2941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581FBDA7-DE1C-49E8-A712-8835AC2A2941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581FBDA7-DE1C-49E8-A712-8835AC2A2941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581FBDA7-DE1C-49E8-A712-8835AC2A2941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581FBDA7-DE1C-49E8-A712-8835AC2A2941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {805DC19C-F5B3-486C-9016-86D3237D22EA}
+	EndGlobalSection
+EndGlobal
