@@ -35,7 +35,11 @@
             this.passaTxtAF2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.inserireNomeEEtàToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.apriFormModaleToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.toolStripStatusLbl = new System.Windows.Forms.ToolStripStatusLabel();
+            this.esciToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -45,7 +49,7 @@
             this.menùToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(924, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(924, 30);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -56,10 +60,12 @@
             this.apriForm2bToolStripMenuItem,
             this.passaTxtAF2ToolStripMenuItem,
             this.inserireNomeEEtàToolStripMenuItem,
-            this.apriFormModaleToolStripMenuItem});
+            this.apriFormModaleToolStripMenuItem,
+            this.esciToolStripMenuItem});
             this.menùToolStripMenuItem.Name = "menùToolStripMenuItem";
             this.menùToolStripMenuItem.Size = new System.Drawing.Size(60, 24);
             this.menùToolStripMenuItem.Text = "&Menù";
+            this.menùToolStripMenuItem.Click += new System.EventHandler(this.menùToolStripMenuItem_Click);
             // 
             // apriForm2ToolStripMenuItem
             // 
@@ -96,11 +102,37 @@
             this.apriFormModaleToolStripMenuItem.Text = "apri form modale";
             this.apriFormModaleToolStripMenuItem.Click += new System.EventHandler(this.apriFormModaleToolStripMenuItem_Click);
             // 
+            // statusStrip1
+            // 
+            this.statusStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripStatusLbl});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 424);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(924, 26);
+            this.statusStrip1.TabIndex = 2;
+            this.statusStrip1.Text = "statusStrip1";
+            // 
+            // toolStripStatusLbl
+            // 
+            this.toolStripStatusLbl.Name = "toolStripStatusLbl";
+            this.toolStripStatusLbl.Size = new System.Drawing.Size(101, 20);
+            this.toolStripStatusLbl.Text = "BENVENUTO!!";
+            // 
+            // esciToolStripMenuItem
+            // 
+            this.esciToolStripMenuItem.Name = "esciToolStripMenuItem";
+            this.esciToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.X)));
+            this.esciToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.esciToolStripMenuItem.Text = "Esci";
+            this.esciToolStripMenuItem.Click += new System.EventHandler(this.esciToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(924, 450);
+            this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.menuStrip1);
             this.IsMdiContainer = true;
             this.MainMenuStrip = this.menuStrip1;
@@ -108,6 +140,8 @@
             this.Text = "Form1";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -122,6 +156,9 @@
         private System.Windows.Forms.ToolStripMenuItem passaTxtAF2ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem inserireNomeEEtàToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem apriFormModaleToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem esciToolStripMenuItem;
+        private System.Windows.Forms.StatusStrip statusStrip1;
+        private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLbl;
     }
 }
 

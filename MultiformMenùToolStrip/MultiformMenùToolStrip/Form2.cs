@@ -41,7 +41,6 @@ namespace MultiformMenùToolStrip
 
         private void btnLeggiValore_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("valore = "+n);
         }
 
         private void btnInviaF1_Click(object sender, EventArgs e)
@@ -51,33 +50,47 @@ namespace MultiformMenùToolStrip
 
         private void btnFormFiglia_Click(object sender, EventArgs e)
         {
-            FormFiglia f = new FormFiglia();
-            this.AddOwnedForm(f);
-            f.Show();
         }
 
         private void btnLeggiValore_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("valore = " + n);
+
         }
 
         private void btnInviaF1_Click_1(object sender, EventArgs e)
         {
-            if (txtForm2.Text == null)
-            {
-                MessageBox.Show("inserire il testo nella textbox");
-            }
-            else {
-                txt1.Text = txtForm2.Text;
-            }
            
         }
 
         private void btnFormFiglia_Click_1(object sender, EventArgs e)
         {
+            
+        }
+
+        private void apriFormFigliaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
             FormFiglia f = new FormFiglia();
+            f.MdiParent = this;
             this.AddOwnedForm(f);
             f.Show();
+        }
+
+        private void inviaTxtForm1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (txtForm2.Text == null)
+            {
+                MessageBox.Show("inserire il testo nella textbox");
+            }
+            else
+            {
+                txt1.Text = txtForm2.Text;
+            }
+        }
+
+        private void leggiValoreToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            MessageBox.Show("valore = " + n);
         }
     }
 }

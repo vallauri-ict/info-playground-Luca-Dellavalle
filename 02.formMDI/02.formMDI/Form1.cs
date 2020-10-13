@@ -67,5 +67,10 @@ namespace _02.formMDI
             toolStripStatusLbl.Text = "premuto Apri 2";
 
         }
+
+        private void menuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

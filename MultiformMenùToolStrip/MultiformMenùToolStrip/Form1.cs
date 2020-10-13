@@ -47,7 +47,7 @@ namespace MultiformMenùToolStrip
 
         private void passaTxtAF2ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //bisogna creare ogni volta una finestra?
+            
         }
 
         private void inserireNomeEEtàToolStripMenuItem_Click(object sender, EventArgs e)
@@ -58,6 +58,22 @@ namespace MultiformMenùToolStrip
         private void apriFormModaleToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void menùToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void esciToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ModalEsci f = new ModalEsci();
+            f.MdiParent = this;
+            f.Text = "uscire";
+            if (f.ShowDialog() == DialogResult.OK)
+            {
+                Close();//chiusura finestra
+            }
         }
     }
 }
