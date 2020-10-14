@@ -8,18 +8,13 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _02.formMDI
+namespace Ese_04_preparazione_verifica
 {
-    public partial class ModalEsci : Form
+    public partial class Form2 : Form
     {
-        public ModalEsci()
+        public Form2()
         {
             InitializeComponent();
-        }
-
-        private void btnEsci_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

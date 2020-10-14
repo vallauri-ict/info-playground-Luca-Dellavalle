@@ -1,0 +1,12 @@
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\bin\Debug\Ese 04 preparazione verifica.exe.config
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\bin\Debug\Ese 04 preparazione verifica.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\bin\Debug\Ese 04 preparazione verifica.pdb
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese 04 preparazione verifica.csprojAssemblyReference.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese_04_preparazione_verifica.Form1.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese_04_preparazione_verifica.ModalEsci.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese_04_preparazione_verifica.Properties.Resources.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese 04 preparazione verifica.csproj.GenerateResource.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese 04 preparazione verifica.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese 04 preparazione verifica.pdb
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese_04_preparazione_verifica.FormSecondaria.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese_04_preparazione_verifica.FormFiglia.resources

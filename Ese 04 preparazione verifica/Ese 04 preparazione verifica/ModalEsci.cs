@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _02.formMDI
+namespace Ese_04_preparazione_verifica
 {
     public partial class ModalEsci : Form
     {
@@ -19,7 +19,7 @@ namespace _02.formMDI
 
         private void btnEsci_Click(object sender, EventArgs e)
         {
-
+            
         }
     }
 }
