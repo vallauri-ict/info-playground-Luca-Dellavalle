@@ -10,3 +10,4 @@ C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellava
 C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese 04 preparazione verifica.pdb
 C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese_04_preparazione_verifica.FormSecondaria.resources
 C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese_04_preparazione_verifica.FormFiglia.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 04 preparazione verifica\Ese 04 preparazione verifica\obj\Debug\Ese_04_preparazione_verifica.fMdi.resources

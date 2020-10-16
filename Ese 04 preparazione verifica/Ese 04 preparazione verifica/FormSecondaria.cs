@@ -31,5 +31,10 @@ namespace Ese_04_preparazione_verifica
         {
            
         }
+
+        private void FormSecondaria_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -103,6 +103,7 @@
             this.Controls.Add(this.lblNome);
             this.Name = "FormSecondaria";
             this.Text = "FormSecondaria";
+            this.Load += new System.EventHandler(this.FormSecondaria_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

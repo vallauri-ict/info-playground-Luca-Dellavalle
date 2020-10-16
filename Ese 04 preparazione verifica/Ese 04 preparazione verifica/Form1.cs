@@ -12,6 +12,8 @@ namespace Ese_04_preparazione_verifica
 {
     public partial class Form1 : Form
     {
+        public FormFiglia ff ;
+
         public Form1()
         {
             InitializeComponent();
@@ -25,13 +27,14 @@ namespace Ese_04_preparazione_verifica
         private void loadToolStripMenuItem_Click(object sender, EventArgs e)
         {
             toolStripStatusLbl.Text = "Load File...";
-            toolStripProgressBar.Value = 100;
+            //toolStripProgressBar.Value = 100;
 
         }
 
+        FormSecondaria fSecondaria = new FormSecondaria();
         private void formSecondariaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormSecondaria fSecondaria = new FormSecondaria();
+            
             fSecondaria.Text = "Form secondaria";
             if (fSecondaria.ShowDialog() == DialogResult.OK) {
                 MessageBox.Show(fSecondaria.nome + " - " + fSecondaria.eta);
@@ -41,12 +44,13 @@ namespace Ese_04_preparazione_verifica
             else if (fSecondaria.ShowDialog() == DialogResult.Cancel) {
                 MessageBox.Show("operazione annullata");
             }
-          
-            
+
+            toolStripStatusLbl.Text = "New secondaria";
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            toolStripStatusLbl.Text = "USCITA!!!!";
             ModalEsci fEsci = new ModalEsci();
             fEsci.Text = "sicuro di uscire ?";
             if (fEsci.ShowDialog() == DialogResult.OK)
@@ -54,17 +58,46 @@ namespace Ese_04_preparazione_verifica
                 Close();//chiusura finestra
             }
         }
-
+        
         private void newFigliaToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormFiglia fFiglia = new FormFiglia();
-            fFiglia.Text = "Form figlia";
-
+            toolStripStatusLbl.Text = "New Figlia";
+            //passo la textbox alla form figlia
+            ff = new FormFiglia(txtModifica);
+            ff.Text = "Form figlia";
+            ff.Show();
         }
 
         private void btnModifica_Click(object sender, EventArgs e)
         {
-            FormFiglia formFiglia;
+            ff.TxtValue = txtModifica.Text; //dovrebbe richiamare il set di txtValue
+        }
+
+        private void newMDIToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLbl.Text = "New MDI";
+            fMdi MDI = new fMdi();
+            MDI.MdiParent = this;
+            MDI.StartPosition = FormStartPosition.Manual;
+            MDI.Location = new Point(10, 100);
+            MDI.Show();
+        }
+
+        private void newToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLbl.Text = "New";
+        }
+
+        private void saveToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            toolStripStatusLbl.Text = "Save";
+        }
+
+        private void infoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Produttore: Luca Dellavalle \n 16/10/2020");
         }
     }
 }
+
+
