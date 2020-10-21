@@ -33,8 +33,7 @@ namespace Ese_04_preparazione_verifica
 
         FormSecondaria fSecondaria = new FormSecondaria();
         private void formSecondariaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            
+        {  
             fSecondaria.Text = "Form secondaria";
             if (fSecondaria.ShowDialog() == DialogResult.OK) {
                 MessageBox.Show(fSecondaria.nome + " - " + fSecondaria.eta);

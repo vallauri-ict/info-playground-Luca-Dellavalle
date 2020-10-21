@@ -25,7 +25,7 @@ namespace Ese_04_preparazione_verifica
                 txtCampo.Text = txtValue;
             }
         }
-       
+         
         public FormFiglia()
         {
             InitializeComponent();
