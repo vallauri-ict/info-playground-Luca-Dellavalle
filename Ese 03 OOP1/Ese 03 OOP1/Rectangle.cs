@@ -13,15 +13,18 @@ namespace Ese_03_OOP1
         private int side1, side2;
         private string descrizione;
         public Color color;
-
-        public Rectangle()
+        //il costruttore torna un istanza della classe e non tiene void, int
+        public Rectangle(): this(1) //1
         {
-            side1 = 1;
-            side2 = 1;
             descrizione = "sono un rettangolo";
         }
 
-        public Rectangle(int baseRettangolo, int altezzaRettangolo)
+        public Rectangle(int l) : this(l,l)//2
+        {
+           
+        }
+
+        public Rectangle(int baseRettangolo, int altezzaRettangolo)//3
         {
             side1 = baseRettangolo;
             side2 = altezzaRettangolo;
