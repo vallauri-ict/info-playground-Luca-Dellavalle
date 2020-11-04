@@ -34,8 +34,6 @@
             this.txtTitolo = new System.Windows.Forms.TextBox();
             this.btnCoda = new System.Windows.Forms.Button();
             this.btnStampa = new System.Windows.Forms.Button();
-            this.dataGridStampa = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridStampa)).BeginInit();
             this.SuspendLayout();
             // 
             // txtAutore
@@ -82,29 +80,19 @@
             // 
             // btnStampa
             // 
-            this.btnStampa.Location = new System.Drawing.Point(967, 12);
+            this.btnStampa.Location = new System.Drawing.Point(365, 39);
             this.btnStampa.Name = "btnStampa";
             this.btnStampa.Size = new System.Drawing.Size(223, 31);
             this.btnStampa.TabIndex = 5;
             this.btnStampa.Text = "stampa";
             this.btnStampa.UseVisualStyleBackColor = true;
-            // 
-            // dataGridStampa
-            // 
-            this.dataGridStampa.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridStampa.Location = new System.Drawing.Point(506, 75);
-            this.dataGridStampa.Name = "dataGridStampa";
-            this.dataGridStampa.RowHeadersWidth = 51;
-            this.dataGridStampa.RowTemplate.Height = 24;
-            this.dataGridStampa.Size = new System.Drawing.Size(684, 321);
-            this.dataGridStampa.TabIndex = 6;
+            this.btnStampa.Click += new System.EventHandler(this.btnStampa_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1202, 445);
-            this.Controls.Add(this.dataGridStampa);
+            this.ClientSize = new System.Drawing.Size(668, 445);
             this.Controls.Add(this.btnStampa);
             this.Controls.Add(this.btnCoda);
             this.Controls.Add(this.label2);
@@ -114,7 +102,6 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridStampa)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -128,7 +115,6 @@
         private System.Windows.Forms.TextBox txtTitolo;
         private System.Windows.Forms.Button btnCoda;
         private System.Windows.Forms.Button btnStampa;
-        private System.Windows.Forms.DataGridView dataGridStampa;
     }
 }
 

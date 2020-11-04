@@ -12,8 +12,6 @@ namespace Ese_06_coda_di_stampa
 {
     public partial class Form1 : Form
     {
-        public static DataGridView dataGV;
-       
 
         public Form1()
         {
@@ -22,16 +20,7 @@ namespace Ese_06_coda_di_stampa
         
         private void Form1_Load(object sender, EventArgs e)
         {
-            dataGV = dataGridStampa;
-            string[] header = { "ID", "Titolo", "Autore"};
-            dataGV.ColumnCount = 3;
-            dataGV.RowHeadersVisible = false;
-            dataGV.ReadOnly = true;
-            for (int i = 0; i < header.Length; i++)
-            {
-                dataGV.Columns[i].HeaderText = header[i];
-                dataGV.Columns[i].Width = dataGV.Width / 4;
-            }
+          
         }
 
         public struct libro
@@ -40,9 +29,9 @@ namespace Ese_06_coda_di_stampa
             public string autore;
         }
 
-        public int i = 0;
+        string[] libri = new string[10];
+        string msg = "";
         Queue<libro> codaLibri = new Queue<libro>();
-
         private void btnCoda_Click(object sender, EventArgs e)
         {
             libro l;
@@ -50,7 +39,15 @@ namespace Ese_06_coda_di_stampa
             l.autore = txtAutore.Text;
 
             codaLibri.Enqueue(l);
-            codaStampa.invia(l, dataGridStampa);
+            MessageBox.Show("inserimento in coda di stampa");
+            msg += " "+ l.titolo+" "+l.autore+" \n";
+            MessageBox.Show("coda: " + msg);
+        }
+
+        private void btnStampa_Click(object sender, EventArgs e)
+        {
+            libro libroDaTogliere = codaLibri.Peek();
+
         }
     }
 }
