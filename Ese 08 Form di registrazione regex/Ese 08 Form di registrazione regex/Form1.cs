@@ -154,7 +154,6 @@ namespace Ese_08_Form_di_registrazione_regex
                 registrazione.controllo(txtCognome.Text, txtNome.Text,txtIndirizzo.Text,
                     txtCittà.Text,txtCap.Text,txtMail.Text,txtCodFisc.Text,txtUser.Text,txtPwd.Text);
             }
-
         }
     }
 }
