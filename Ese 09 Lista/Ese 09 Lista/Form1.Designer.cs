@@ -36,13 +36,21 @@
             this.txtId = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.btnVisualizza = new System.Windows.Forms.Button();
+            this.btnVisualizzaobj = new System.Windows.Forms.Button();
+            this.btnAggiungiObj = new System.Windows.Forms.Button();
+            this.txtFind = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.tnFindAll = new System.Windows.Forms.Button();
+            this.btnFind = new System.Windows.Forms.Button();
+            this.btnVisDizionario = new System.Windows.Forms.Button();
+            this.btnDizionario = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnAdd
             // 
             this.btnAdd.Location = new System.Drawing.Point(43, 173);
             this.btnAdd.Name = "btnAdd";
-            this.btnAdd.Size = new System.Drawing.Size(148, 62);
+            this.btnAdd.Size = new System.Drawing.Size(148, 43);
             this.btnAdd.TabIndex = 0;
             this.btnAdd.Text = "aggiungi";
             this.btnAdd.UseVisualStyleBackColor = true;
@@ -100,17 +108,101 @@
             // 
             this.btnVisualizza.Location = new System.Drawing.Point(237, 173);
             this.btnVisualizza.Name = "btnVisualizza";
-            this.btnVisualizza.Size = new System.Drawing.Size(148, 62);
+            this.btnVisualizza.Size = new System.Drawing.Size(148, 43);
             this.btnVisualizza.TabIndex = 7;
             this.btnVisualizza.Text = "visualizza";
             this.btnVisualizza.UseVisualStyleBackColor = true;
             this.btnVisualizza.Click += new System.EventHandler(this.btnVisualizza_Click);
+            // 
+            // btnVisualizzaobj
+            // 
+            this.btnVisualizzaobj.Location = new System.Drawing.Point(237, 231);
+            this.btnVisualizzaobj.Name = "btnVisualizzaobj";
+            this.btnVisualizzaobj.Size = new System.Drawing.Size(148, 41);
+            this.btnVisualizzaobj.TabIndex = 10;
+            this.btnVisualizzaobj.Text = "visualizza obj";
+            this.btnVisualizzaobj.UseVisualStyleBackColor = true;
+            this.btnVisualizzaobj.Click += new System.EventHandler(this.btnVisualizzaobj_Click);
+            // 
+            // btnAggiungiObj
+            // 
+            this.btnAggiungiObj.Location = new System.Drawing.Point(43, 231);
+            this.btnAggiungiObj.Name = "btnAggiungiObj";
+            this.btnAggiungiObj.Size = new System.Drawing.Size(148, 41);
+            this.btnAggiungiObj.TabIndex = 9;
+            this.btnAggiungiObj.Text = "aggiungi in obj";
+            this.btnAggiungiObj.UseVisualStyleBackColor = true;
+            this.btnAggiungiObj.Click += new System.EventHandler(this.btnAggiungiObj_Click);
+            // 
+            // txtFind
+            // 
+            this.txtFind.Location = new System.Drawing.Point(237, 309);
+            this.txtFind.Name = "txtFind";
+            this.txtFind.Size = new System.Drawing.Size(100, 22);
+            this.txtFind.TabIndex = 12;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(94, 312);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(97, 17);
+            this.label4.TabIndex = 11;
+            this.label4.Text = "Titolo / Autore";
+            // 
+            // tnFindAll
+            // 
+            this.tnFindAll.Location = new System.Drawing.Point(237, 367);
+            this.tnFindAll.Name = "tnFindAll";
+            this.tnFindAll.Size = new System.Drawing.Size(148, 41);
+            this.tnFindAll.TabIndex = 14;
+            this.tnFindAll.Text = "FindAll";
+            this.tnFindAll.UseVisualStyleBackColor = true;
+            this.tnFindAll.Click += new System.EventHandler(this.tnFindAll_Click);
+            // 
+            // btnFind
+            // 
+            this.btnFind.Location = new System.Drawing.Point(43, 367);
+            this.btnFind.Name = "btnFind";
+            this.btnFind.Size = new System.Drawing.Size(148, 41);
+            this.btnFind.TabIndex = 13;
+            this.btnFind.Text = "Find";
+            this.btnFind.UseVisualStyleBackColor = true;
+            this.btnFind.Click += new System.EventHandler(this.btnFind_Click);
+            // 
+            // btnVisDizionario
+            // 
+            this.btnVisDizionario.Location = new System.Drawing.Point(630, 367);
+            this.btnVisDizionario.Name = "btnVisDizionario";
+            this.btnVisDizionario.Size = new System.Drawing.Size(148, 41);
+            this.btnVisDizionario.TabIndex = 16;
+            this.btnVisDizionario.Text = "Visualizza dizionario";
+            this.btnVisDizionario.UseVisualStyleBackColor = true;
+            this.btnVisDizionario.Click += new System.EventHandler(this.btnVisDizionario_Click);
+            // 
+            // btnDizionario
+            // 
+            this.btnDizionario.Location = new System.Drawing.Point(436, 367);
+            this.btnDizionario.Name = "btnDizionario";
+            this.btnDizionario.Size = new System.Drawing.Size(148, 41);
+            this.btnDizionario.TabIndex = 15;
+            this.btnDizionario.Text = "Dictionary";
+            this.btnDizionario.UseVisualStyleBackColor = true;
+            this.btnDizionario.Click += new System.EventHandler(this.btnDizionario_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnVisDizionario);
+            this.Controls.Add(this.btnDizionario);
+            this.Controls.Add(this.tnFindAll);
+            this.Controls.Add(this.btnFind);
+            this.Controls.Add(this.txtFind);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.btnVisualizzaobj);
+            this.Controls.Add(this.btnAggiungiObj);
             this.Controls.Add(this.btnVisualizza);
             this.Controls.Add(this.txtId);
             this.Controls.Add(this.label3);
@@ -137,6 +229,14 @@
         private System.Windows.Forms.TextBox txtId;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button btnVisualizza;
+        private System.Windows.Forms.Button btnVisualizzaobj;
+        private System.Windows.Forms.Button btnAggiungiObj;
+        private System.Windows.Forms.TextBox txtFind;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button tnFindAll;
+        private System.Windows.Forms.Button btnFind;
+        private System.Windows.Forms.Button btnVisDizionario;
+        private System.Windows.Forms.Button btnDizionario;
     }
 }
 
