@@ -46,8 +46,14 @@ namespace Ese_12_container_banchina_pile
         private void btnDaScaricare_Click(object sender, EventArgs e)
         { 
             lblContainer.Text = "";
-            lblContainer.Text = "codice: "+cont.Peek().codice +"  peso: "+ cont.Peek().peso+"  tara: "+ cont.Peek().tara;
-            cont.Pop();
+            if (cont.Count != 0)
+            {
+                lblContainer.Text = "codice: " + cont.Peek().codice + "  peso: " + cont.Peek().peso + "  tara: " + cont.Peek().tara;
+                cont.Pop();
+            }
+            else {
+                lblContainer.Text = "Scaricamento completato";
+            }
         }
     }
 }
