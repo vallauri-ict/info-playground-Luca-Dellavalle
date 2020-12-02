@@ -1,6 +1,4 @@
 ﻿using System;
-{
-}
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,9 +25,9 @@ namespace Ese_13_Ereditarietà
             return verso;
         }
 
-        public Mostro() : this(0){
-
-        }
+       /* public Mostro() : this(0){
+        //richiamo al costruttore con parametro ma mette 0
+        }*/
         public Mostro(int q) {
             this.punti = q;
         }
