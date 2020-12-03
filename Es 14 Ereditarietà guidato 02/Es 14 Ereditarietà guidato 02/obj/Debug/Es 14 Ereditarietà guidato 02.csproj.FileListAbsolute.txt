@@ -1,0 +1,9 @@
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\bin\Debug\Es 14 Ereditarietà guidato 02.exe.config
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\bin\Debug\Es 14 Ereditarietà guidato 02.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\bin\Debug\Es 14 Ereditarietà guidato 02.pdb
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\obj\Debug\Es 14 Ereditarietà guidato 02.csprojAssemblyReference.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\obj\Debug\Es_14_Ereditarietà_guidato_02.Form1.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\obj\Debug\Es_14_Ereditarietà_guidato_02.Properties.Resources.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\obj\Debug\Es 14 Ereditarietà guidato 02.csproj.GenerateResource.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\obj\Debug\Es 14 Ereditarietà guidato 02.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Es 14 Ereditarietà guidato 02\Es 14 Ereditarietà guidato 02\obj\Debug\Es 14 Ereditarietà guidato 02.pdb
