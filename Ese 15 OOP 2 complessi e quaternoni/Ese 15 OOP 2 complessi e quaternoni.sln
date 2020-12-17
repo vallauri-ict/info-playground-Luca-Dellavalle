@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ese 15 OOP 2 complessi e quaternoni", "Ese 15 OOP 2 complessi e quaternoni\Ese 15 OOP 2 complessi e quaternoni.csproj", "{C5887C64-B19B-40D3-AAE2-AC68D42D5046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5887C64-B19B-40D3-AAE2-AC68D42D5046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5887C64-B19B-40D3-AAE2-AC68D42D5046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5887C64-B19B-40D3-AAE2-AC68D42D5046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5887C64-B19B-40D3-AAE2-AC68D42D5046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C63E7D3-E281-48B6-8B69-2257D96FD5BC}
+	EndGlobalSection
+EndGlobal
