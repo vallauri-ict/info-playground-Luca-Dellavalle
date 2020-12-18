@@ -8,7 +8,7 @@ namespace Ese_14_OOP_1_persone_studenti
 {
     class Studente : Persona
     {
-        List<int> voti = new List<int>();
+       public List<int> voti = new List<int>();
 
         public double Media()
         {
