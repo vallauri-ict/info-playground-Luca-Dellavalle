@@ -21,5 +21,24 @@ namespace Ese_15_OOP_2_complessi_e_quaternoni
         {
 
         }
+
+        private void btnModuloComplesso_Click(object sender, EventArgs e)
+        {
+            if (txtReale.Text == "" && txtImmaginario.Text != "") {
+                Complesso complesso = new Complesso(Convert.ToDouble(txtImmaginario.Text));
+                MessageBox.Show(complesso.Modulo().ToString());
+            }
+            else if (txtReale.Text != "" && txtImmaginario.Text != "") {
+                Complesso complesso = new Complesso(Convert.ToDouble(txtImmaginario.Text), Convert.ToDouble(txtReale.Text));
+                MessageBox.Show(complesso.Modulo().ToString());
+            }
+
+        }
+
+        private void btnModuloQuaternione_Click(object sender, EventArgs e)
+        {
+            Quaternione quaternione = new Quaternione();
+            MessageBox.Show(quaternione.Modulo().ToString());
+        }
     }
 }

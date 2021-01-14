@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C5887C64-B19B-40D3-AAE2-AC68D42D5046}</ProjectGuid>
+    <ProjectGuid>{1232EC65-F667-487F-85C2-5AF036D9FC1D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ese_15_OOP_2_complessi_e_quaternoni</RootNamespace>
-    <AssemblyName>Ese 15 OOP 2 complessi e quaternoni</AssemblyName>
+    <RootNamespace>Ese_16_Esercizio_scopa</RootNamespace>
+    <AssemblyName>Ese 16 Esercizio scopa</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Complesso.cs" />
+    <Compile Include="Carta.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Giocatore.cs" />
+    <Compile Include="Mano.cs" />
+    <Compile Include="Mazzo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Quaternione.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

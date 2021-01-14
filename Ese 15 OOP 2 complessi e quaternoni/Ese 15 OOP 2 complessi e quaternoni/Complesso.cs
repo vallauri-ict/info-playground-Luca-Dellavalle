@@ -8,34 +8,29 @@ namespace Ese_15_OOP_2_complessi_e_quaternoni
 {
     class Complesso
     {
-        private double reale, immaginario;
+        private double reale = 0, immaginario = 0;
 
-        public double NumeroComplesso() {
-            double x = 0;
-            return x;
-        }
-        public double NumeroComplesso(double a)
-        {
-            double x = 0;
-            return x;
-        }
-        public double NumeroComplesso(double a, double b)
-        {
-            double x = 0;
-            return x;
-        }
-        public string get() {
-
-            string strNumeri = reale + " " + immaginario;
-            return strNumeri;
-        }
-        public double modulo() {
-            reale = Math.Pow(2, reale);
-            immaginario = Math.Pow(2,immaginario);
-            return Math.Sqrt(reale + immaginario);
-        }
-        public double coniugato()
+        public Complesso() : this(1)
         {
 
         }
+        public Complesso(double immaginario) : this(1, immaginario)
+        {
+
+        }
+        public Complesso(double reale, double immaginario)
+        {
+            Reale = reale;
+            Immaginario = immaginario;
+        }
+
+        public double Reale { get => reale; set => reale = value; }
+
+        public double Immaginario { get => immaginario; set => immaginario = value; }
+
+        public double Modulo() {
+            double somma = Math.Pow(Reale,2) + Math.Pow(Immaginario,2);
+            return Math.Sqrt(somma);
+        }
+    }
 }
