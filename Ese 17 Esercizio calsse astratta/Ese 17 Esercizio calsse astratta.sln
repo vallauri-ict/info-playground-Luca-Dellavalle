@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ese 17 Esercizio calsse astratta", "Ese 17 Esercizio calsse astratta\Ese 17 Esercizio calsse astratta.csproj", "{7ADAD61F-5CD4-42DD-9786-04094C21C293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ADAD61F-5CD4-42DD-9786-04094C21C293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ADAD61F-5CD4-42DD-9786-04094C21C293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ADAD61F-5CD4-42DD-9786-04094C21C293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ADAD61F-5CD4-42DD-9786-04094C21C293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B483AB26-804B-4149-A022-2620E7CE80B7}
+	EndGlobalSection
+EndGlobal
