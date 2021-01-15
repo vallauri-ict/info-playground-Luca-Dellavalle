@@ -8,8 +8,8 @@ namespace Ese_16_Esercizio_scopa
 {
     class Carta
     {
-        private string valore;
-        private string seme;
+        public string valore { get => valore; set =>valore = value; }
+        public string seme { get => seme; set =>seme = value; }
 
         public Carta(string valore,string seme) { 
         
@@ -18,5 +18,6 @@ namespace Ese_16_Esercizio_scopa
         public void Lettura(string valore, string seme) { 
         
         }
+
     }
 }

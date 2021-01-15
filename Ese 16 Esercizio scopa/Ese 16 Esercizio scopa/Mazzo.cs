@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ese_16_Esercizio_scopa
 {
-    class Mazzo
+    class Mazzo : Carta
     {
         public struct Carte {
             public int attrCarta;

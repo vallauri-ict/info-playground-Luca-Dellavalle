@@ -8,8 +8,8 @@ namespace Ese_16_Esercizio_scopa
 {
     class Giocatore
     {
-        private string mano;
-        private string nome;
+        private Mano mano;
+        private string nome { get => nome; set => nome = value; }
         private Mano prese;
 
         public Giocatore(string nome) { 

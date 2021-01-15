@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 
 namespace Ese_16_Esercizio_scopa
 {
-    class Mano
+    class Mano : Mazzo
     {
-        public struct mano
+        public List<Carta> mano = new List<Carta>();
+        public Mano()
         {
-            public string attrMano;
+            mano.Clear();
         }
-        List<mano> carteMano;
 
-        public Mano() { 
 
+        public void Leggi() {
+            foreach (var i in mano)
+            {
+                //i.ReadCard();
+            }
+        }
+        public void Gioca(Mazzo m) { 
+        
         }
     }
 }
