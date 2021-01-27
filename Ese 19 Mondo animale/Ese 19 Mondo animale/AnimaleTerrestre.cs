@@ -6,21 +6,23 @@ using System.Threading.Tasks;
 
 namespace Ese_19_Mondo_animale
 {
-	public abstract class AnimaleMarino : AnimaleAcquatico
+	public abstract class AnimaleTerrestre : Animale
 	{
-		public AnimaleMarino(String s) : base(s)
+
+		public AnimaleTerrestre(String s) : base(s)
 		{
 
 		}
 
 		public override String vive()
 		{
-			return "in mare";
+			return "sulla terra";
 		}
 
 		public override String chi_sei()
 		{
-			return "un animale marino";
+			return "un animale terrestre";
 		}
 	}
+	
 }

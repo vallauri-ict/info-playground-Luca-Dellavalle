@@ -8,17 +8,17 @@ namespace Ese_19_Mondo_animale
 {
 	public abstract class AnimaleAcquatico : Animale{
 
-		public AnimaleAcquatico(String s)
+		public AnimaleAcquatico(String s) : base(s)
 		{
-			super(s);
+
 		}
 
-		public String vive()
+		public override String vive()
 		{
 			return "nell'acqua";
 		}
 
-		public String chi_sei()
+		public override String chi_sei()
 		{
 			return "un animale acquatico";
 		}

@@ -17,7 +17,6 @@ namespace Ese_19_Mondo_animale
             InitializeComponent();
         }
 
-        Animale Cavallo = new Animale("Cavallo");
 
         private void Form1_Load(object sender, EventArgs e)
         {
