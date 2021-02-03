@@ -212,15 +212,18 @@
             this.btnInserisci.TabIndex = 16;
             this.btnInserisci.Text = "INSERISCI";
             this.btnInserisci.UseVisualStyleBackColor = true;
+            this.btnInserisci.Click += new System.EventHandler(this.btnInserisci_Click);
             // 
             // btnRicerca
             // 
+            this.btnRicerca.Enabled = false;
             this.btnRicerca.Location = new System.Drawing.Point(534, 185);
             this.btnRicerca.Name = "btnRicerca";
             this.btnRicerca.Size = new System.Drawing.Size(145, 43);
             this.btnRicerca.TabIndex = 17;
             this.btnRicerca.Text = "RICERCA";
             this.btnRicerca.UseVisualStyleBackColor = true;
+            this.btnRicerca.Click += new System.EventHandler(this.btnRicerca_Click);
             // 
             // dgvStagisti
             // 
@@ -286,6 +289,7 @@
             this.Controls.Add(this.lblNome);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvStagisti)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

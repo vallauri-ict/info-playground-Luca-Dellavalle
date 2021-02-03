@@ -1,0 +1,9 @@
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\bin\Debug\Ese 20 Stagisti.exe.config
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\bin\Debug\Ese 20 Stagisti.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\bin\Debug\Ese 20 Stagisti.pdb
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\obj\Debug\Ese 20 Stagisti.csprojAssemblyReference.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\obj\Debug\Ese_20_Stagisti.Form1.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\obj\Debug\Ese_20_Stagisti.Properties.Resources.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\obj\Debug\Ese 20 Stagisti.csproj.GenerateResource.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\obj\Debug\Ese 20 Stagisti.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 20 Stagisti\Ese 20 Stagisti\obj\Debug\Ese 20 Stagisti.pdb
