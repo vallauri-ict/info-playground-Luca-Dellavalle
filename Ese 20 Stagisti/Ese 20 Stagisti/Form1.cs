@@ -70,9 +70,30 @@ namespace Ese_20_Stagisti
             }
             else {
                 MessageBox.Show("Non è stata effettuata alcuna ora in " + azienda, "information", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
             }
 
+        }
+
+        private void btnElimina_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (txtElimina.Text == "")
+                {
+                    elencoStudenti.cancella();
+                }
+                else
+                {
+                    elencoStudenti.cancella((Convert.ToInt32(txtElimina.Text)));
+                }
+                MessageBox.Show("cancellazione effettuata");
+
+                elencoStudenti.visualizzaDGV(dgvStagisti);
+            }
+            catch(Exception ex) {
+                MessageBox.Show(ex.Message);
+            
+            }
         }
     }
 }

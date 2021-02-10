@@ -243,6 +243,7 @@
             this.btnElimina.TabIndex = 19;
             this.btnElimina.Text = "ELIMINA";
             this.btnElimina.UseVisualStyleBackColor = true;
+            this.btnElimina.Click += new System.EventHandler(this.btnElimina_Click);
             // 
             // txtElimina
             // 

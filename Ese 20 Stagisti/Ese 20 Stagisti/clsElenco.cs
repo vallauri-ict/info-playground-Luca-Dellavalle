@@ -43,14 +43,14 @@ namespace Ese_20_Stagisti
         public void cancella() {
             if (elenco.Count == 0)
             {
-                throw new Exception("CAncellazione negata, lista vuota");
+                throw new Exception("Cancellazione negata, lista vuota");
             }
             else {
                 elenco.RemoveAt(elenco.Count-1);
             }
         }
 
-        public void CancellaAllaPosizione(int posizione) {
+        public void cancella(int posizione) {
             posizione--;
             //verifico l'esistenza
             if (elenco.Count == 0)
