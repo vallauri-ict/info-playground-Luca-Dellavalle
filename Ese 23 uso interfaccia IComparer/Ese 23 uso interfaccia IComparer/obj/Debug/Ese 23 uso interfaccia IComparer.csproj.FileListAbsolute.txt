@@ -1,0 +1,9 @@
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\bin\Debug\Ese 23 uso interfaccia IComparer.exe.config
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\bin\Debug\Ese 23 uso interfaccia IComparer.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\bin\Debug\Ese 23 uso interfaccia IComparer.pdb
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\obj\Debug\Ese 23 uso interfaccia IComparer.csprojAssemblyReference.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\obj\Debug\Ese_23_uso_interfaccia_IComparer.Form1.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\obj\Debug\Ese_23_uso_interfaccia_IComparer.Properties.Resources.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\obj\Debug\Ese 23 uso interfaccia IComparer.csproj.GenerateResource.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\obj\Debug\Ese 23 uso interfaccia IComparer.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 23 uso interfaccia IComparer\Ese 23 uso interfaccia IComparer\obj\Debug\Ese 23 uso interfaccia IComparer.pdb
