@@ -1,0 +1,9 @@
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\obj\Debug\Ese 22 Interfacce IComparable.csprojAssemblyReference.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\obj\Debug\Ese_22_Interfacce_IComparable.Form1.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\obj\Debug\Ese_22_Interfacce_IComparable.Properties.Resources.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\obj\Debug\Ese 22 Interfacce IComparable.csproj.GenerateResource.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\bin\Debug\Ese 22 Interfacce IComparable.exe.config
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\bin\Debug\Ese 22 Interfacce IComparable.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\bin\Debug\Ese 22 Interfacce IComparable.pdb
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\obj\Debug\Ese 22 Interfacce IComparable.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 22 Interfacce IComparable\Ese 22 Interfacce IComparable\obj\Debug\Ese 22 Interfacce IComparable.pdb
