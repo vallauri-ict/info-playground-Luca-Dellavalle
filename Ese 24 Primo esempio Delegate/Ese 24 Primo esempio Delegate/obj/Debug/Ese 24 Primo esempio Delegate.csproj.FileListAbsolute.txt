@@ -1,0 +1,9 @@
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\bin\Debug\Ese 24 Primo esempio Delegate.exe.config
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\bin\Debug\Ese 24 Primo esempio Delegate.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\bin\Debug\Ese 24 Primo esempio Delegate.pdb
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\obj\Debug\Ese 24 Primo esempio Delegate.csprojAssemblyReference.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\obj\Debug\Ese_24_Primo_esempio_Delegate.Form1.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\obj\Debug\Ese_24_Primo_esempio_Delegate.Properties.Resources.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\obj\Debug\Ese 24 Primo esempio Delegate.csproj.GenerateResource.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\obj\Debug\Ese 24 Primo esempio Delegate.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 24 Primo esempio Delegate\Ese 24 Primo esempio Delegate\obj\Debug\Ese 24 Primo esempio Delegate.pdb
