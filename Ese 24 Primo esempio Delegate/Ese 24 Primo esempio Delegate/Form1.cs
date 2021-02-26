@@ -41,6 +41,17 @@ namespace Ese_24_Primo_esempio_Delegate
             return x * y;
         }
 
+        public int Dif(int a, int b, Operazione op)
+        {
+            if (a >= b)
+            {
+                return op(a, b);
+            }
+            else {
+                return op(b, a);
+            }
+        }
+
         private void btnSomma_Click(object sender, EventArgs e)
         {
             //PRIMO METODO per usare un delegate
@@ -58,6 +69,13 @@ namespace Ese_24_Primo_esempio_Delegate
 
             //richiamo il delegate che eseguirà la funzione prodotto
             MessageBox.Show("Prodotto=" + op(10, 15));
+        }
+
+        private void btnSottrazione_Click(object sender, EventArgs e)
+        {
+            Operazione op = Sottrazione;
+
+            MessageBox.Show("differenza = " + Dif(30,12,op).ToString());
         }
     }
 }

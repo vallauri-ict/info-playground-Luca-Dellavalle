@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ese 25 Primo esercizio dispense mana", "Ese 25 Primo esercizio dispense mana\Ese 25 Primo esercizio dispense mana.csproj", "{D368A300-8FE2-4855-898A-21CF44509185}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D368A300-8FE2-4855-898A-21CF44509185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D368A300-8FE2-4855-898A-21CF44509185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D368A300-8FE2-4855-898A-21CF44509185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D368A300-8FE2-4855-898A-21CF44509185}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86F56131-4A78-442D-ADE8-B35DFC65543D}
+	EndGlobalSection
+EndGlobal
