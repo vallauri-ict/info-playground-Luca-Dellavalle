@@ -1,0 +1,9 @@
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\bin\Debug\Ese 26 Secondo esercizio mana.exe.config
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\bin\Debug\Ese 26 Secondo esercizio mana.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\bin\Debug\Ese 26 Secondo esercizio mana.pdb
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\obj\Debug\Ese 26 Secondo esercizio mana.csprojAssemblyReference.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\obj\Debug\Ese_26_Secondo_esercizio_mana.Form1.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\obj\Debug\Ese_26_Secondo_esercizio_mana.Properties.Resources.resources
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\obj\Debug\Ese 26 Secondo esercizio mana.csproj.GenerateResource.cache
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\obj\Debug\Ese 26 Secondo esercizio mana.exe
+C:\Users\Luca Dellavalle\Desktop\INFO 4\gitHUB INFO\info-playground-Luca-Dellavalle\Ese 26 Secondo esercizio mana\Ese 26 Secondo esercizio mana\obj\Debug\Ese 26 Secondo esercizio mana.pdb
